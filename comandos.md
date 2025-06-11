@@ -1,5 +1,5 @@
 #Principais comandos git  
 git init  
 git add .
-git commit -a -m ""
-
+git commit -a -m ""  
+git push
