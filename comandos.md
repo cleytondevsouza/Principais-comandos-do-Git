@@ -8,3 +8,4 @@ git push --set-upstream origin teste (empurra as alterações para o repositóri
 git checkout main (trocando para braind "main")  
 git branch (mosra a lista de branch atual)  
 git merge teste (une o código da branch atual "main" com o código da branch "teste")
+git pull (puxa os arquivos do repositório remoto par ao repositório local)
