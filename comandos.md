@@ -17,4 +17,9 @@ git checkout ea8369 (Retorna e Head para um commit antiror permitindo a volta no
 git checkout main (retorna para o ultima versão do projeto desfazendo a volta ao tempo)  
 git branch página-de-servicos (cria uma nova branch com o nome "página-de-servico)
 git branch -m main (renomeia no nome da branch para "main" OBS: o usuario deverá estar na branch que deseja renomear)  
-git push origin nova-imagem-na-pg-de-servcos (envia no repósitório remoto a branch nova-imagem-na-pg-de-servicos)
+git push origin nova-imagem-na-pg-de-servcos (envia no repósitório remoto a branch nova-imagem-na-pg-de-servicos)  
+git pull origin (comando realizado para puxar a versão mais atual do projeto existente no servidor remoto GitHub) 
+## Dicas para estudo  
+Git Sub Modules  
+Git Rebasa <--- Arriscado  
+Git Reslução de Comflitos
